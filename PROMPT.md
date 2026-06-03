@@ -59,9 +59,11 @@ The employee's self-input:
 {paste the employee's self-assessment}
 
 Write the feedback as flowing PARAGRAPHS - not bullet points, and not a
-heading-by-heading walkthrough. Keep the ENTIRE summary within 300 words (a short
-"Gaps / things to verify" list may follow, in addition). Ground every claim in my
-emails and meeting notes, citing dates/sources in the prose.
+heading-by-heading walkthrough. LENGTH IS A HARD LIMIT: the summary MUST be
+between 200 and 300 words and must NEVER exceed 300 words (a short "Gaps / things
+to verify" list may follow, excluded from this count). Before finishing, count the
+words and, if over 300, cut the weakest points until it is at or under 300. Ground
+every claim in my emails and meeting notes, citing dates/sources in the prose.
 
 Do not evaluate against the full BD checklist. Instead, identify and highlight the
 SPECIFIC BD values, leadership commitments, and mindset elements the employee
