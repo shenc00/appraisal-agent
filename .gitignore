@@ -1,0 +1,15 @@
+# Build output / packaged agent
+*.zip
+/build/
+/dist/
+
+# Microsoft 365 Agents Toolkit local/runtime files
+/env/.env.*.user
+.localConfigs
+appPackage/build/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/launch.json
+*.log

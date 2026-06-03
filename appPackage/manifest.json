@@ -1,0 +1,33 @@
+{
+  "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.21/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.21",
+  "version": "1.0.0",
+  "id": "2bdce4a8-6e16-4d8e-9dd6-0b779b547c85",
+  "developer": {
+    "name": "Appraisal Assistant Team",
+    "websiteUrl": "https://www.example.com",
+    "privacyUrl": "https://www.example.com/privacy",
+    "termsOfUseUrl": "https://www.example.com/terms"
+  },
+  "name": {
+    "short": "Appraisal Assistant",
+    "full": "Appraisal Assistant"
+  },
+  "description": {
+    "short": "Drafts appraisal input from your own mail and meeting notes.",
+    "full": "An assistant that helps a manager draft performance-appraisal input about a single employee by summarizing the manager's own email correspondence and meeting (Facilitator/Loop) notes within a chosen date range. Output is always a draft for the manager to review and edit."
+  },
+  "icons": {
+    "color": "color.png",
+    "outline": "outline.png"
+  },
+  "accentColor": "#4B2E83",
+  "copilotAgents": {
+    "declarativeAgents": [
+      {
+        "id": "appraisalAssistant",
+        "file": "declarativeAgent.json"
+      }
+    ]
+  }
+}
