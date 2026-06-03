@@ -51,6 +51,14 @@ agent's behaviour, then re-package and re-upload (steps below).
    "Upload a custom app" option, you'll need an admin to enable it — see
    *Troubleshooting*.
 
+> **No admin / upload is blocked?** You don't need the packaged app at all. See
+> **[PROMPT.md](PROMPT.md)** — paste-ready prompts that deliver the same two
+> components (SMART goal ratings + BD-framework summary) directly in Copilot
+> chat, with **zero installation and no admin approval**. Hosting a website (e.g.
+> Netlify) does **not** help: a web app can't read your mail/Loop notes without
+> an Entra app registration + Graph admin consent, and can't borrow Copilot's
+> access either — so it needs *more* approval, not less.
+
 ---
 
 ## Step 0 — Validate first (do this before anything else)
