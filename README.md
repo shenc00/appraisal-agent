@@ -10,9 +10,10 @@ It covers two appraisal components:
    reported progress; the agent generates per-goal feedback and rates each goal
    **Above / Meet / Below Expectation** against evidence in emails and Loop notes.
 2. **Overall Performance** — the manager pastes the employee's self-input; the
-   agent produces a summary (**within 300 words**) organised under the **BD
-   framework** (Values, Leadership Commitments, Mindset), noting where the
-   self-input is or isn't supported.
+   agent writes a **paragraph summary (within 300 words)** that highlights the
+   **specific BD values demonstrated** (not a checklist), folds in other
+   achievements and goal progress found in the correspondence, and notes where
+   the self-input is or isn't supported.
 
 It runs entirely inside Microsoft 365 Copilot using each user's existing
 permissions — it never accesses anyone else's mailbox, and there is no backend,
@@ -111,8 +112,8 @@ it then appears as an agent in Copilot. Two ways:
    **Appraisal Assistant** now appears in the agents list / right-hand panel.
 5. Select it and use a conversation starter, e.g. *"Overall performance feedback
    for jane@contoso.com, 2026-01-01 to 2026-06-01. Here is their self-input:
-   [paste]. Summarize evidence under BD Values, Leadership Commitments, and
-   Mindset."*
+   [paste]. Write a paragraph summary (within 300 words) highlighting the specific
+   BD values they demonstrated, plus other achievements and goal progress."*
 
 ### Via the Microsoft 365 Agents Toolkit (optional, for richer dev loop)
 If you prefer an in-editor flow: install the **Microsoft 365 Agents Toolkit**

@@ -58,12 +58,19 @@ Date range to search: {start date} to {end date}
 The employee's self-input:
 {paste the employee's self-assessment}
 
-Summarize the evidence in my mail and meeting notes, organised under the BD
-framework below. Under each heading give concise, evidence-based bullet points
-with date/source citations, and note where the employee's self-input IS or IS NOT
-supported by the evidence. Keep the ENTIRE summary within 300 words (a short
-"Gaps / things to verify" list may follow, in addition). Prioritise the
-strongest, best-evidenced points to stay within the limit.
+Write the feedback as flowing PARAGRAPHS - not bullet points, and not a
+heading-by-heading walkthrough. Keep the ENTIRE summary within 300 words (a short
+"Gaps / things to verify" list may follow, in addition). Ground every claim in my
+emails and meeting notes, citing dates/sources in the prose.
+
+Do not evaluate against the full BD checklist. Instead, identify and highlight the
+SPECIFIC BD values, leadership commitments, and mindset elements the employee
+genuinely DEMONSTRATED in the evidence, naming them naturally and explaining how.
+Only mention BD elements that are actually evidenced; leave the rest out. Also
+weave in (a) any other notable achievements found in my correspondence and meeting
+notes, even if not in the self-input, and (b) progress towards or accomplishment
+of their goals. Note where the self-input is or isn't supported by evidence. Use
+the BD framework below only as reference vocabulary for naming the values shown.
 
 BD VALUES
 - We do what is right

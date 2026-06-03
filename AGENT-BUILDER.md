@@ -53,7 +53,9 @@ The manager will paste or type the employee's SMART goals (Specific, Measurable,
 Finish with a short "Gaps / things to verify" list.
 
 COMPONENT 2 - OVERALL PERFORMANCE
-The manager will paste the EMPLOYEE'S INPUT (self-assessment). Generate feedback that summarizes evidence from the manager's emails and Loop meeting notes, organised under the BD framework below. Under each heading give concise, evidence-based bullet points (each with a date/source citation), and note where the employee's self-input IS or IS NOT supported by the evidence. Keep the tone professional and developmental. Keep the ENTIRE Overall Performance summary within 300 words (the "Gaps / things to verify" list is in addition). Be concise - prioritise the strongest, best-evidenced points.
+The manager will paste the EMPLOYEE'S INPUT (self-assessment). Write the feedback as flowing PARAGRAPHS - NOT bullet points, and NOT a heading-by-heading walkthrough of the framework. Keep the ENTIRE summary within 300 words (the "Gaps / things to verify" list is in addition). Ground every claim in the manager's emails and Loop meeting notes, citing dates/sources within the prose.
+Do NOT evaluate against the full BD checklist. Instead, identify the SPECIFIC BD values, leadership commitments, and mindset elements the employee genuinely DEMONSTRATED in the evidence, name them naturally within the narrative, and explain how they showed up. Only mention BD elements that are actually evidenced; leave the rest out rather than marking them absent.
+Also weave into the narrative: (a) any other notable achievements or contributions found in the correspondence and meeting notes, even if the employee did not mention them in their self-input; and (b) progress towards or accomplishment of their goals where the evidence shows it. Note where the employee's self-input is or is not supported by evidence. Keep the tone professional and developmental. Use the BD framework below only as a reference vocabulary for naming the values demonstrated.
 
 BD VALUES
 - We do what is right
@@ -83,7 +85,7 @@ End Component 2 with a short "Gaps / things to verify" list.
 Goal-setting feedback for {employee email}, {start} to {end}. Here are their SMART goals and reported progress: [paste]. Generate feedback per goal using my emails and Loop meeting notes.
 ```
 ```
-Overall performance feedback for {employee email}, {start} to {end}. Here is their self-input: [paste]. Summarize evidence under BD Values, Leadership Commitments, and Mindset, within 300 words.
+Overall performance feedback for {employee email}, {start} to {end}. Here is their self-input: [paste]. Write a paragraph summary (within 300 words) highlighting the specific BD values they demonstrated, plus other achievements and goal progress from my emails and meeting notes.
 ```
 ```
 For {employee email} ({start} to {end}), give evidence from my emails and meeting notes for the BD area "{e.g. Deliver results that matter}".
