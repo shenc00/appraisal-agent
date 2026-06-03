@@ -6,13 +6,13 @@ meeting (Facilitator / Loop) notes within a chosen date range.
 
 It covers two appraisal components:
 
-1. **Goal Setting** — the manager pastes the employee's goals and reported
-   progress; the agent generates per-goal feedback, comparing the reported
-   progress against evidence in emails and Loop notes.
+1. **Goal Setting** — the manager pastes the employee's **SMART goals** and
+   reported progress; the agent generates per-goal feedback and rates each goal
+   **Above / Meet / Below Expectation** against evidence in emails and Loop notes.
 2. **Overall Performance** — the manager pastes the employee's self-input; the
-   agent summarizes the evidence organised under the **BD framework** (Values,
-   Leadership Commitments, Mindset), noting where the self-input is or isn't
-   supported.
+   agent produces a summary (**within 300 words**) organised under the **BD
+   framework** (Values, Leadership Commitments, Mindset), noting where the
+   self-input is or isn't supported.
 
 It runs entirely inside Microsoft 365 Copilot using each user's existing
 permissions — it never accesses anyone else's mailbox, and there is no backend,
