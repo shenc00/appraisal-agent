@@ -30,9 +30,9 @@ The employee's SMART goals and their reported progress:
 progress they reported}
 
 For EACH goal:
-1. Summarize relevant evidence from my emails and Loop meeting notes, citing
-   dates and the source (meeting or email thread), and reference the measurable
-   target where possible.
+1. Summarize, in your own words, the relevant evidence from my emails and meeting
+   notes, WITHOUT naming the source, tool, meeting, or thread, and reference the
+   measurable target where possible.
 2. Rate performance against the goal as exactly one of:
    Above Expectation / Meet Expectation / Below Expectation.
    If there is not enough evidence to rate, say "Insufficient evidence" and
@@ -63,7 +63,12 @@ heading-by-heading walkthrough. LENGTH IS A HARD LIMIT: the summary MUST be
 between 200 and 300 words and must NEVER exceed 300 words (a short "Gaps / things
 to verify" list may follow, excluded from this count). Before finishing, count the
 words and, if over 300, cut the weakest points until it is at or under 300. Ground
-every claim in my emails and meeting notes, citing dates/sources in the prose.
+every statement in real evidence from my emails and meeting notes, but rephrase it
+as the employee's achievements and contributions in your own words. Do NOT mention
+or reference any source: no email subjects, meeting or note titles, ticket/issue
+IDs, tool or app names (e.g. JIRA, Teams, Outlook, Loop), and no citation tags or
+links. General references to timing are fine, but do not attribute statements to a
+specific named item.
 
 Do not evaluate against the full BD checklist. Instead, identify and highlight the
 SPECIFIC BD values, leadership commitments, and mindset elements the employee
