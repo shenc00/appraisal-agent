@@ -1,8 +1,18 @@
 # Appraisal Assistant — Microsoft 365 Copilot declarative agent
 
-A Copilot agent that helps a manager draft performance-appraisal input about **one
-employee at a time**, by summarizing the **manager's own** emails and meeting
-(Facilitator / Loop) notes within a chosen date range.
+A Copilot agent that helps a **BD manager** draft performance-appraisal feedback
+about **one employee at a time**, grounded in the **manager's own** emails and
+meeting (Facilitator / Loop) notes within a chosen date range.
+
+It covers two appraisal components:
+
+1. **Goal Setting** — the manager pastes the employee's goals and reported
+   progress; the agent generates per-goal feedback, comparing the reported
+   progress against evidence in emails and Loop notes.
+2. **Overall Performance** — the manager pastes the employee's self-input; the
+   agent summarizes the evidence organised under the **BD framework** (Values,
+   Leadership Commitments, Mindset), noting where the self-input is or isn't
+   supported.
 
 It runs entirely inside Microsoft 365 Copilot using each user's existing
 permissions — it never accesses anyone else's mailbox, and there is no backend,
@@ -89,9 +99,10 @@ it then appears as an agent in Copilot. Two ways:
 4. Open **Microsoft 365 Copilot** (the Copilot app, Teams Copilot, or
    copilot.microsoft.com signed in with your work account). The
    **Appraisal Assistant** now appears in the agents list / right-hand panel.
-5. Select it and use a conversation starter, e.g.
-   *"Draft a general appraisal summary for jane@contoso.com covering
-   2026-01-01 to 2026-06-01."*
+5. Select it and use a conversation starter, e.g. *"Overall performance feedback
+   for jane@contoso.com, 2026-01-01 to 2026-06-01. Here is their self-input:
+   [paste]. Summarize evidence under BD Values, Leadership Commitments, and
+   Mindset."*
 
 ### Via the Microsoft 365 Agents Toolkit (optional, for richer dev loop)
 If you prefer an in-editor flow: install the **Microsoft 365 Agents Toolkit**
